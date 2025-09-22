@@ -1,0 +1,4 @@
+Cardio|Fitness|60|Maja Majić|Zdravlje kardiovaskularnog sistema|standard
+Pilates|Fitness|90|Maja Majić, Pera Perić|Jačanje fleksibilnosti|premium
+Yoga|Stretch|120|Instruktor Instruktorović|Meditacija i jačanje|standard
+Zumba|Dance|90|Pera Perić|Plesni fitnes|standard

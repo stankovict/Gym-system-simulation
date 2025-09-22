@@ -1,0 +1,11 @@
+Najpopularniji dan u nedelji - izveštaj
+-----------------------------------
+Utorak       | 11
+Četvrtak     | 8
+Petak        | 8
+Nedelja      | 5
+Ponedeljak   | 5
+Sreda        | 5
+Subota       | 3
+-----------------------------------
+Najpopularniji dan: Utorak (11 rezervacija)

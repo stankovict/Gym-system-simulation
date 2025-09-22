@@ -1,0 +1,1 @@
+prijavljeni_korisnik = None

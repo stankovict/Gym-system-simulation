@@ -1,0 +1,31 @@
+Izveštaj rezervacija za datum: 27.07.2025.
+--------------------------------------------------
+Korisničko ime      Termin    Mesto     
+--------------------------------------------------
+korisnik1           3331AA    1A        
+korisnik1           1112AG    4D        
+korisnik2           1112AA    2A        
+korisnik2           2221AC    4C        
+korisnik2           4441AA    2B        
+korisnik2           3331AI    6F        
+korisnik3           1112AD    3C        
+korisnik3           2221AA    3D        
+korisnik3           3332AG    3F        
+korisnik3           4442AA    3C        
+korisnik4           1111AA    1A        
+korisnik4           3332AA    2C        
+korisnik4           3332AC    3A        
+korisnik4           3331AA    4C        
+korisnik4           1112AD    5B        
+--------------------------------------------------
+Izveštaj rezervacija za datum: 26.07.2025.
+--------------------------------------------------
+Korisničko ime      Termin    Mesto     
+--------------------------------------------------
+korisnik1           1112AA    3D        
+korisnik1           1112AC    2D        
+korisnik1           3331AD    6F        
+korisnik1           3331AA    4A        
+korisnik1           4441AA    2A        
+korisnik1           1111AC    4D        
+--------------------------------------------------

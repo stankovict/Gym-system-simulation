@@ -1,0 +1,8 @@
+admin|admin123|Admin|Adminović|administrator|aktivan|premium|21.06.2025.|21.07.2100.
+instruktor1|instruktor123|Instruktor|Instruktorović|instruktor|aktivan|premium|21.06.2025.|21.07.2100.
+instruktor2|instruktor123|Maja|Majić|instruktor|aktivan|premium|24.07.2025.|23.08.2100.
+instruktor3|instruktor123|Pera|Perić|instruktor|aktivan|premium|21.06.2025.|21.07.2100.
+korisnik1|korisnik123|Korisnik|Korisniković|registrovan član|aktivan|standard|24.07.2025.|23.08.2025.
+korisnik2|korisnik123|Džoni|Džostarić|registrovan član|aktivan|premium|15.07.2025.|14.08.2025.
+korisnik3|korisnik123|Džajro|Cepelić|registrovan član|aktivan|premium|24.07.2025.|23.08.2025.
+korisnik4|korisnik123|Fani|Valentinović|registrovan član|aktivan|standard|17.07.2025.|16.08.2025.

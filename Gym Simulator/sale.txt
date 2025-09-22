@@ -1,0 +1,4 @@
+1|Cardio Sala|5|ABCDE
+2|Pilates Sala|4|ABCD
+3|Yoga Sala|6|ABCDEF
+4|Zumba Sala|3|ABC
